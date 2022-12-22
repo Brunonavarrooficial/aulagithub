@@ -1,0 +1,133 @@
+[33mcommit 7267069bb36e1976d3dc268ac187a7c919e8d6f1[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 16:09:35 2022 -0300
+
+    tag 1 checkout teste
+
+[33mcommit 474efb23257a48265dd839c8f47f98d265d1f083[m[33m ([m[1;33mtag: tag3[m[33m, [m[1;33mtag: tag1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 01:23:04 2022 -0300
+
+    teste stash
+
+[33mcommit 5b73153dc3364f317705c9a9c98eff936eaa921f[m[33m ([m[1;31morigin/blablabla[m[33m, [m[1;32mteste1[m[33m, [m[1;32mhead/tag1[m[33m, [m[1;32mblablabla[m[33m)[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:53:39 2022 -0300
+
+    h4 da branch blablabla
+
+[33mcommit c8c6615df041db9f28599fba4dfe44e1dda7de03[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:50:26 2022 -0300
+
+    merge teste linha adcionada
+
+[33mcommit 8d8e89e86ee13077f233cdc58a4feee84f492d17[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:46:47 2022 -0300
+
+    linha da branch  blablabla
+
+[33mcommit ed84565513f0c53a6e9461b91e7c5ea85802e8a0[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:41:37 2022 -0300
+
+    h2 feita pelo teste1
+
+[33mcommit 72ff2ec18da0105cb09f490614fd0d3fd7c5acc8[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:33:54 2022 -0300
+
+    teste de merge para branch teste1
+
+[33mcommit d34912c4db1acadb24432abbc3fad2568d725d06[m
+Merge: 97514b4 f823b71
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:30:23 2022 -0300
+
+    Merge branch 'teste1' into blablabla
+
+[33mcommit 97514b4626004a40cd9378546a65ad4ba4011e40[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:27:54 2022 -0300
+
+    blablabla jogou na linha 20
+
+[33mcommit eeae691bde89d92566446de81b20937348ae174c[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:24:16 2022 -0300
+
+    blablabla fez um h3
+
+[33mcommit f823b71c50b53dad01d766b5a3d33c6d543da465[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:21:44 2022 -0300
+
+    paragrafo da branch teste
+
+[33mcommit b4f73f4f6342eb1348957c3ed8626a4b4843fa4b[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Thu Dec 22 00:03:44 2022 -0300
+
+    adm testando commit branch teste
+
+[33mcommit 089d7413a50227e2bc982a51c89300370c2d7d3a[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 23:41:06 2022 -0300
+
+    atualização geral
+
+[33mcommit 90bd74a5e0aa4f29c4161a1aec0736f3e1065268[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 22:21:27 2022 -0300
+
+    ale testando
+
+[33mcommit d5dc7cf529e0ef0e75d4fb99f56fa50fb7b9243f[m
+Merge: 9fd82f5 ff6cee3
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 22:15:13 2022 -0300
+
+    Merge branch 'main' of github.com:Brunonavarrooficial/aulagithub
+
+[33mcommit 9fd82f5c115b35d47a1648bdf6a1bc42ec1f1600[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 22:12:19 2022 -0300
+
+    equipe dev teste
+
+[33mcommit ff6cee32b58d50914b1512790c1f72b3fd9d7f87[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 22:10:22 2022 -0300
+
+    Carlito matador feito ok
+
+[33mcommit bd3d92a42701530352f04d08b62dd4cd3b1d4392[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 22:08:15 2022 -0300
+
+    Pull do joao ok e atualizaçao ok
+
+[33mcommit eae0a165b6124be1ed4f19c5de17c5c1c771d4f2[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 22:05:11 2022 -0300
+
+    Correção e atuzalizção da Amanda
+
+[33mcommit 921b7abe9b6ee510c7a28453b9ba039caaf842bc[m
+Author: Brunonavarrooficial <bnacessoria@gmail.com>
+Date:   Wed Dec 21 21:56:57 2022 -0300
+
+    atualizacao do ale
+
+[33mcommit 8600daeaa29b8083e4b21306bf182f03fb5f70b8[m
+Author: Bruno Bonfim <bnacessoria@gmail.com>
+Date:   Wed Jun 29 16:05:02 2022 -0300
+
+    Acrescentado valor das vendas
+
+[33mcommit 78f5388bca231df57aed3c765be39543c8f1747a[m
+Author: Bruno Bonfim <bnacessoria@gmail.com>
+Date:   Wed Jun 29 15:43:32 2022 -0300
+
+    Criadas páginas index e vendas
